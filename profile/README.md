@@ -1,4 +1,3 @@
-# .github
 In addition to the project repos here, please also see the projects, and their associated repos, that Goldman Sachs has contributed to open source foundations:
 
 * Legend (contributed into FINOS)
